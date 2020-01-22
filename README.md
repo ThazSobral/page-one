@@ -1,4 +1,4 @@
-# OnePage
+# PageOne
 
 ### Minha SinglePage utilizando Bootstrap.
 
