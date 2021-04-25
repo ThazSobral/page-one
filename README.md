@@ -1,4 +1,4 @@
-# PageOne
+# bootstrap-page-example
 
 ### Minha SinglePage utilizando Bootstrap.
 
